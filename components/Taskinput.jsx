@@ -1,4 +1,4 @@
-export const TaskInput = () => {
+export const TashInput = () => {
   return (
     <div className="d-flex gap-1">
       <input
